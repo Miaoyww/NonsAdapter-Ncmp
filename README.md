@@ -10,7 +10,7 @@
 
 # 食用方法
 
-将dll文件拖拽到`AppData\Roaming\NonsPlayer\Adapters`中，重启NonsPlayer即可
+将dll文件拖拽到`AppData\Local\NonsPlayer\adapters`中，重启NonsPlayer即可
 
 # 特别说明
 
