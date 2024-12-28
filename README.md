@@ -10,6 +10,12 @@
 
 # 食用方法
 
+## 方法1
+
+![349305c5356d063103515f050be69971](https://github.com/user-attachments/assets/b2969c39-7658-4618-ae9b-b1ae124688fd)
+
+## 方法2
+
 将dll文件拖拽到`AppData\Local\NonsPlayer\adapters`中，重启NonsPlayer即可
 
 # 特别说明
