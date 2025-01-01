@@ -1,0 +1,9 @@
+{
+    "name": "NCMP",
+    "version": "1.2.0",
+    "author":"Miaoyww",
+    "author_link": "https://github.com/Miaoyww",
+    "description": "网易云音乐适配器",
+    "preview":"preview.png",
+    "type": "adapter"
+}
