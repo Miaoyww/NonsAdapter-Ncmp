@@ -1,5 +1,5 @@
 <div align="center">
-<img src="NonsPlayer-Icon.png" alt="图标" Height="128" Width="128">
+<img src="preview.png" alt="图标">
 
 <h1 align="center">NonsPlayer Adapter Ncm</h1>
 
